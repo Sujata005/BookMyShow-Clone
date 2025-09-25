@@ -5,7 +5,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red) 
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)  
 A simple **BookMyShow-inspired web app** built with **HTML, CSS, and JavaScript**.  
 This project replicates the look and feel of the BookMyShow platform, allowing users to browse movies, events, and shows, and practice building a modern UI layout.
 
@@ -104,7 +104,7 @@ git clone https://github.com/your-username/bookmyshow-clone.git
 
 ## 🤝 Contributing
 
-Pull requests are welcome!
+Pull requests are welcome!  
 If you’d like to make major changes, please open an issue first to discuss what you’d like to add.
 
 ---
