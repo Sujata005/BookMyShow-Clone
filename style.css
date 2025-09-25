@@ -1,6 +1,4 @@
-/* ===========================
-   Global Styles
-=========================== */
+/* =========================== Global Styles =========================== */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -8,9 +6,7 @@ body {
   color: #333;
 }
 
-/* ===========================
-   Header
-=========================== */
+/* =========================== Header =========================== */
 .header {
   display: flex;
   justify-content: space-between;
@@ -171,9 +167,7 @@ nav a:hover {
 }
 
 
-/* ===========================
-   Movies Section
-=========================== */
+/* =========================== Movies Section =========================== */
 .movies {
   padding: 2rem;
 }
@@ -360,3 +354,4 @@ nav a:hover {
 .support-btn:hover {
   background: #b20710;
 }
+
